@@ -1,0 +1,4 @@
+# 请将MuleSoft提供的JAR文件放置在此目录：
+# - mule-secure-props-java8-11.jar (Java 8和11共用)
+# - mule-secure-props-java17.jar (Java 17专用)
+
